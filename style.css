@@ -1,0 +1,27 @@
+
+.heading{
+    text-align: center;
+}
+
+.scrollmenu {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+  }
+  
+  .scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+  
+  .scrollmenu a:hover {
+    background-color: #f50505;
+  }
+  .poly{
+    width: 100%;
+    height: auto;
+  }
+  
